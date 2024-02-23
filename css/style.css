@@ -63,6 +63,21 @@ nav{
     height: 3rem;
 }
 
+
+
+
+
+
+.special img{
+   align-content: center;
+   width: 1293px;
+   height: 390px;
+}
+
+
+
+
+
 #features{
     background: url(../img/bg-features.png);
     color: white;
